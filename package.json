@@ -6,7 +6,7 @@
 		"build": "tsc"
 	},
 	"stackblitz": {
-		"startCommand": "export NODE_OPTIONS=--openssl-legacy-provider"
+		"startCommand": "export NODE_OPTIONS=--openssl-legacy-provider && npx tsc"
 	},
 	"dependencies": {
 		"@fioprotocol/fio-sdk-lite": "^1.0.0",
