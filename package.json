@@ -1,0 +1,8 @@
+{
+	"name": "@fioprotocol/fio.sdk-lite-sandbox",
+	"version": "1.0.0",
+	"dependencies": {
+		"@fioprotocol/fio-sdk-lite": "^1.0.0",
+		"crypto-browserify": "^3.12.1"
+	}
+}
